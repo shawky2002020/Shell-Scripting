@@ -1,0 +1,28 @@
+System Monitoring Alert - 2024-12-10 19:00:01
+
+System Monitoring Report - 2024-12-10 19:00:01
+======================================
+Disk Usage:
+/dev/sdb        251G  4.0G  235G  2%   /
+tools           466G  370G  96G   80%  /init
+drivers         466G  370G  96G   80%  /usr/lib/wsl/drivers
+C:\             466G  370G  96G   80%  /mnt/c
+F:\             1.9T  11G   1.9T  1%   /mnt/f
+CPU Usage: 0.07%
+Memory Usage:
+Total Memory: 12Gi, Used Memory: 1.2Gi, Free Memory: 7.8Gi
+Top Memory-Consuming Processes:
+1          init                 528   
+113        init                 92    
+20267      dockerd              83656 
+20280      containerd           52844 
+20451      newgrp               2432  
+20452      bash                 4976  
+20702      java                 1082684
+3068       cron                 3356  
+3069       sh                   532   
+3071       bash                 3240  
+4447       cron                 2516  
+7415       init                 84    
+7416       init                 92    
+7417       bash                 5260  
